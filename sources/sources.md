@@ -1,0 +1,17 @@
+# Sources
+
+* [bootstrap](https://getbootstrap.com/)
+* [devstory](https://devstory.net/)
+* [digitalocean](https://www.digitalocean.com/)
+* [djangoproject](https://www.djangoproject.com/)
+* [fullstackpython](https://www.fullstackpython.com/)
+* [github](https://github.com/)
+* [gitlab](https://gitlab.com/)
+* [grafikart](https://grafikart.fr/)
+* [openclassrooms](https://openclassrooms.com/fr/)
+* [ordinarycoders](https://ordinarycoders.com/)
+* [quackit](https://www.quackit.com/)
+* [realpython](https://realpython.com/)
+* [tutorialspoint](https://www.tutorialspoint.com/)
+* [w3schools](https://www.w3schools.com/)
+* [youtube](https://www.youtube.com/)
