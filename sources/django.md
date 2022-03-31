@@ -1,4 +1,9 @@
-# Django - [Getting Started](https://docs.djangoproject.com/en/4.0/topics/)
+# Django
+
+[Django - Getting Started](https://docs.djangoproject.com/en/4.0/topics/)
+* [Django 4.0 releases](https://docs.djangoproject.com/en/4.0/releases/4.0/)
+
+[Mozilla: Django - Introduction](https://developer.mozilla.org/fr/docs/Learn/Server-side/Django/Introduction)
 
 ## OpenClassRooms - [Django](https://openclassrooms.com/fr/search?page=1&query=django&language=fr&type=course)
 - [x] [Mettez en place votre environnement Python](https://openclassrooms.com/fr/courses/6951236-mettez-en-place-votre-environnement-python)
@@ -37,6 +42,8 @@
 - [ ] [What is Django?](https://www.digitalocean.com/community/tutorials/what-is-django)
 - [ ] [How To Harden the Security of Your Production Django Project](https://www.digitalocean.com/community/tutorials/how-to-harden-your-production-django-project)
 - [ ] [Working with Django Templates & Static Files](https://www.digitalocean.com/community/tutorials/working-with-django-templates-static-files)
+- [ ] [How To Deploy a Local Django App to a VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-local-django-app-to-a-vps)
+- [ ] [How To Install and Configure Django with Postgres, Nginx, and Gunicorn](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-django-with-postgres-nginx-and-gunicorn)
 
 ## RealPython - [Django](https://realpython.com/tutorials/django/)
 - [ ] []()
@@ -71,3 +78,42 @@
 - [x] -> [Déployer une application Django en production](https://zestedesavoir.com/tutoriels/2213/deployer-une-application-django-en-production/)
 - [ ] [Développez votre site web avec le framework Django](https://zestedesavoir.com/tutoriels/598/developpez-votre-site-web-avec-le-framework-django/)
 - [x] -> [Mise en cache intelligente avec Django](https://zestedesavoir.com/tutoriels/1295/mise-en-cache-intelligente-avec-django/)
+
+## Github
+* [awesome-django](https://github.com/wsvincent/awesome-django)
+* [templates](https://github.com/wsvincent/awesome-django#projects)
+* [ressources](https://github.com/wsvincent/awesome-django#resources)
+* [scarlette](https://github.com/encode/starlette)
+* [Django Cheat Sheet](https://github.com/lucrae/django-cheat-sheet)
+* [Django template for Docker + Heroku](https://github.com/bfirsh/django-docker-heroku-template)
+* [django-tree-queries](https://github.com/matthiask/django-tree-queries)
+* [blurb_it](https://github.com/python/blurb_it)
+* [DjangoMedicalStoreManagementSystem](https://github.com/hackstarsj/DjangoMedicalStoreManagementSystem)
+* [PyEditorial](https://github.com/mavenium/PyEditorial)
+* [site_immobilier](https://github.com/emmanou245/site_immobilier)
+* [btre](https://github.com/NdeneSENE/btre)
+* [immobilier](https://github.com/verpoorten/immobilier)
+* [gestion_immobiliere](https://github.com/abdoulayeboki/gestion_immobiliere)
+* [Immobilier_Arcane](https://github.com/Git-StevenP/Immobilier_Arcane)
+* [Brython-Django](https://github.com/harukaeru/Brython-Django)
+* [django-ex](https://github.com/sclorg/django-ex)
+
+## Gitlab
+* [django-project-template](https://gitlab.com/thorgate-public/django-project-template)
+* [django-gitlab-digitalocean](https://gitlab.com/testdriven/django-gitlab-digitalocean)
+
+## Other
+* [YouTube-JustDjango](https://www.youtube.com/c/JustDjango/videos)
+* [pythondoctor:django](https://python.doctor/page-django-cours-tutoriels-documentation-francaise)
+* [Django features](https://ordinarycoders.com/blog/django)
+* [univ-orleans:django](https://www.univ-orleans.fr/iut-orleans/informatique/intra/tuto/django/)
+* [Django Front](https://mkdev.me/en/posts/fundamentals-of-front-end-django)
+* [Django REST Framework](https://www.django-rest-framework.org/)
+* [projets](https://builtwithdjango.com/projects/)
+* [developpez.com:django](https://python.developpez.com/tutoriels/reseau-web/apprendre-framework-django/)
+* [codecademy:django](https://www.codecademy.com/learn/paths/build-python-web-apps-with-django)
+* [tutorialspoint:django](https://www.tutorialspoint.com/django/index.htm)
+* [djangogirls](https://tutorial.djangogirls.org/fr/)
+* [javatpoint:django](https://www.javatpoint.com/django-tutorial)
+* [Utiliser Django avec une base de données Postgres](https://olivierlemoigne.com/posts/django-postgres/)
+* [Hostinger - tutorials](https://www.hostinger.fr/tutoriels/)
