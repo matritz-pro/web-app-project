@@ -1,11 +1,11 @@
 # Django
 
-[Django - Getting Started](https://docs.djangoproject.com/en/4.0/topics/)
-* [Django 4.0 releases](https://docs.djangoproject.com/en/4.0/releases/4.0/)
+## Official documentation
+- [x] -> [Django - Getting Started](https://docs.djangoproject.com/en/4.0/topics/)
+- [x] [Django 4.0 releases](https://docs.djangoproject.com/en/4.0/releases/4.0/)
+- [ ] [Mozilla: Django - Introduction](https://developer.mozilla.org/fr/docs/Learn/Server-side/Django/Introduction)
 
-[Mozilla: Django - Introduction](https://developer.mozilla.org/fr/docs/Learn/Server-side/Django/Introduction)
-
-## OpenClassRooms - [Django](https://openclassrooms.com/fr/search?page=1&query=django&language=fr&type=course)
+## [OpenClassRooms](https://openclassrooms.com/fr/search?page=1&query=django&language=fr&type=course)
 - [x] [Mettez en place votre environnement Python](https://openclassrooms.com/fr/courses/6951236-mettez-en-place-votre-environnement-python)
 - [ ] [Débutez avec le framework Django](https://openclassrooms.com/fr/courses/7172076-debutez-avec-le-framework-django)
 - [ ] [Mettez en place une API avec Django REST Framework](https://openclassrooms.com/fr/courses/7192416-mettez-en-place-une-api-avec-django-rest-framework)
@@ -13,7 +13,7 @@
 - [ ] [Déployez une application Django](https://openclassrooms.com/fr/courses/4425101-deployez-une-application-django)
 - [ ] [Débuggez un projet Python](https://openclassrooms.com/fr/courses/7155851-debuggez-un-projet-python)
 
-## DigitalOcean - [byTags](https://www.digitalocean.com/community/tags/django) or [bySearch](https://www.digitalocean.com/community/tutorials?q=django)
+## DigitalOcean
 ### [Django Development](https://www.digitalocean.com/community/tutorial_series/django-development)
 - [x] [How To Install Django and Set Up a Development Environment on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-django-and-set-up-a-development-environment-on-ubuntu-20-04)
 - [x] [How To Create a Django App and Connect it to a Database](https://www.digitalocean.com/community/tutorials/how-to-create-a-django-app-and-connect-it-to-a-database)
@@ -26,6 +26,8 @@
 - [ ] [How To Scale and Secure a Django Application with Docker, Nginx, and Let's Encrypt](https://www.digitalocean.com/community/tutorials/how-to-scale-and-secure-a-django-application-with-docker-nginx-and-let-s-encrypt)
 - [ ] [How To Deploy a Scalable and Secure Django Application with Kubernetes](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-scalable-and-secure-django-application-with-kubernetes)
 
+### Django by [tags](https://www.digitalocean.com/community/tags/django)
+### Django by [search](https://www.digitalocean.com/community/tutorials?q=django)
 ### Other tutorials
 - [ ] [How to Set Up a Scalable Django App with DigitalOcean Managed Databases and Spaces](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-scalable-django-app-with-digitalocean-managed-databases-and-spaces)
 - [ ] [How To Set Up Django with Postgres, Nginx, and Gunicorn on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-20-04)
@@ -45,10 +47,10 @@
 - [ ] [How To Deploy a Local Django App to a VPS](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-local-django-app-to-a-vps)
 - [ ] [How To Install and Configure Django with Postgres, Nginx, and Gunicorn](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-django-with-postgres-nginx-and-gunicorn)
 
-## RealPython - [Django](https://realpython.com/tutorials/django/)
+## [RealPython](https://realpython.com/tutorials/django/)
 - [ ] []()
 
-## OrdinaryCoders - [Django](https://ordinarycoders.com/build-a-django-web-app)
+## [OrdinaryCoders](https://ordinarycoders.com/blog/django)
 ### [Django I](https://ordinarycoders.com/django-i)
 - [x] [Django installation and configuration](https://ordinarycoders.com/django-installation-and-configuration)
 - [x] [Django overview and debugging](https://ordinarycoders.com/django-overview-and-debugging)
@@ -74,10 +76,16 @@
 - [ ] [Web development next steps](https://ordinarycoders.com/web-development-next-steps)
 - [ ] [Custom domains + Security configurations](https://ordinarycoders.com/custom-domains-security-configurations)
 
-## ZesteDeSavoir - [Django](https://zestedesavoir.com/bibliotheque/?tag=django)
+## [ZesteDeSavoir](https://zestedesavoir.com/bibliotheque/?tag=django)
 - [x] -> [Déployer une application Django en production](https://zestedesavoir.com/tutoriels/2213/deployer-une-application-django-en-production/)
 - [ ] [Développez votre site web avec le framework Django](https://zestedesavoir.com/tutoriels/598/developpez-votre-site-web-avec-le-framework-django/)
 - [x] -> [Mise en cache intelligente avec Django](https://zestedesavoir.com/tutoriels/1295/mise-en-cache-intelligente-avec-django/)
+
+## [iut-orleans](https://www.univ-orleans.fr/iut-orleans/informatique/intra/tuto/django/)
+- [ ] []()
+
+## [PythonDoctor](https://python.doctor/page-django-cours-tutoriels-documentation-francaise)
+- [ ] []()
 
 ## Github
 * [awesome-django](https://github.com/wsvincent/awesome-django)
@@ -104,9 +112,6 @@
 
 ## Other
 * [YouTube-JustDjango](https://www.youtube.com/c/JustDjango/videos)
-* [pythondoctor:django](https://python.doctor/page-django-cours-tutoriels-documentation-francaise)
-* [Django features](https://ordinarycoders.com/blog/django)
-* [univ-orleans:django](https://www.univ-orleans.fr/iut-orleans/informatique/intra/tuto/django/)
 * [Django Front](https://mkdev.me/en/posts/fundamentals-of-front-end-django)
 * [Django REST Framework](https://www.django-rest-framework.org/)
 * [projets](https://builtwithdjango.com/projects/)
