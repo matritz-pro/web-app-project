@@ -85,17 +85,30 @@
 - [ ] [Développez votre site web avec le framework Django](https://zestedesavoir.com/tutoriels/598/developpez-votre-site-web-avec-le-framework-django/)
 - [x] -> [Mise en cache intelligente avec Django](https://zestedesavoir.com/tutoriels/1295/mise-en-cache-intelligente-avec-django/)
 
-## [iut-orleans](https://www.univ-orleans.fr/iut-orleans/informatique/intra/tuto/django/)
-- [ ] [x]()
+## Tutorials
+- [ ] [iut-orleans](https://www.univ-orleans.fr/iut-orleans/informatique/intra/tuto/django/)
+- [ ] [PythonDoctor](https://python.doctor/page-django-cours-tutoriels-documentation-francaise)
+- [ ] [tutorialspoint:django](https://www.tutorialspoint.com/django/index.htm)
+- [ ] [Django Front](https://mkdev.me/en/posts/fundamentals-of-front-end-django)
+- [ ] [Utiliser Django avec une base de données Postgres](https://olivierlemoigne.com/posts/django-postgres/)
+- [ ] [javatpoint:django](https://www.javatpoint.com/django-tutorial)
 
-## [PythonDoctor](https://python.doctor/page-django-cours-tutoriels-documentation-francaise)
-- [ ] [x]()
+## DjangoGirls
+- [ ] [djangogirls](https://tutorial.djangogirls.org/fr/)
+- [ ] [developpez.com:django](https://python.developpez.com/tutoriels/reseau-web/apprendre-framework-django/)
+
+## Other
+- [ ] [Hostinger - tutorials](https://www.hostinger.fr/tutoriels/)
+- [ ] [django-tree-queries](https://github.com/matthiask/django-tree-queries)
+- [ ] [Django Cheat Sheet](https://github.com/lucrae/django-cheat-sheet)
+- [ ] [YouTube-JustDjango](https://www.youtube.com/c/JustDjango/videos)
+- [ ] [Django REST Framework](https://www.django-rest-framework.org/)
 
 ## Github
 - [x] [awesome-django](https://github.com/wsvincent/awesome-django)
 - [ ] [scarlette](https://github.com/encode/starlette)
 
-## Templates
+## Templates / [projets](https://builtwithdjango.com/projects/)
 - [x] -> [django-gitlab-digitalocean](https://gitlab.com/testdriven/django-gitlab-digitalocean)
 - [ ] [django-project-template](https://gitlab.com/thorgate-public/django-project-template)
 - [ ] [django-docker-heroku-template](https://github.com/bfirsh/django-docker-heroku-template)
@@ -109,20 +122,3 @@
 - [ ] [Immobilier_Arcane](https://github.com/Git-StevenP/Immobilier_Arcane)
 - [ ] [Brython-Django](https://github.com/harukaeru/Brython-Django)
 - [ ] [django-ex](https://github.com/sclorg/django-ex)
-
-## Other
-- [ ] [Django Front](https://mkdev.me/en/posts/fundamentals-of-front-end-django)
-- [ ] [Utiliser Django avec une base de données Postgres](https://olivierlemoigne.com/posts/django-postgres/)
-- [ ] [Hostinger - tutorials](https://www.hostinger.fr/tutoriels/)
-
-## Other2
-- [ ] [django-tree-queries](https://github.com/matthiask/django-tree-queries)
-- [ ] [Django Cheat Sheet](https://github.com/lucrae/django-cheat-sheet)
-- [ ] [projets](https://builtwithdjango.com/projects/)
-- [ ] [YouTube-JustDjango](https://www.youtube.com/c/JustDjango/videos)
-- [ ] [Django REST Framework](https://www.django-rest-framework.org/)
-- [ ] [developpez.com:django](https://python.developpez.com/tutoriels/reseau-web/apprendre-framework-django/)
-- [ ] [codecademy:django](https://www.codecademy.com/learn/paths/build-python-web-apps-with-django)
-- [ ] [tutorialspoint:django](https://www.tutorialspoint.com/django/index.htm)
-- [ ] [djangogirls](https://tutorial.djangogirls.org/fr/)
-- [ ] [javatpoint:django](https://www.javatpoint.com/django-tutorial)
