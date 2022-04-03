@@ -20,7 +20,7 @@ $ sudo apt-get upgrade python3
 
 > Purger les fichiers systèmes obsolètes
 ```bash
-sudo apt-get purge --autoremove
+$ sudo apt-get purge --autoremove
 ```
 
 Créer un répertoire de projet et se placer dedans
@@ -38,7 +38,7 @@ $ touch .gitignore
 
 Installer le gestionnaire de paquets ```pip```
 ```bash
-sudo apt-get install python3-pip
+$ sudo apt-get install python3-pip
 ```
 
 Installer le paquet ```venv```
