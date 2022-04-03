@@ -8,7 +8,7 @@
 ...
 
 ### 2. Solution
-Pour les personnes en activité professionnel à la recherche d'un logement, les investisseurs, ou encore les propriétaires souhaitant vendre leur bien, www.annonces-immo.com permet de vendre, acheter et louer des biens immobiliers, en ligne et ce depuis tous types d'appareils ayant accès à internet.
+Pour les personnes en activité professionnel à la recherche d'un logement, les investisseurs, ou encore les propriétaires souhaitant vendre leur bien, www.annonces-immo.fr permet de vendre, acheter et louer des biens immobiliers, en ligne et ce depuis tous types d'appareils ayant accès à internet.
 
 ### 3. Objectif
 L'objectif de ce projet est d'approfondir des compétences de gestion de projet digital, ainsi que de d'acquérir de nouvelles compétences dans le développement d'applications web.
