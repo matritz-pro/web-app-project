@@ -178,18 +178,18 @@ Design graphique :
 |Fonctionnalités|Contraintes|
 |-|-|
 |Inscription|Captcha|
-|Consulter les annonces|Cache|
+|Consulter les annonces||
 |Prendre contact|Anti-spam|
 |Sauvegarder les annonces|Contrôlable|
 |Activer reporting|Contrôlable|
-|Google Maps|Chargement|
+|Google Maps||
 
 #### 5.1.2. Back office
 |Fonctionnalités|Contraintes|
 |-|-|
-|Gestion des annonces|à définir|
-|Gestion des comptes|à définir|
-|Gestion des contenus|à définir|
+|Gestion des annonces||
+|Gestion des comptes||
+|Gestion des contenus||
 
 ### 5.2. Arborescence
 ![arborescence](ressources/arborescence.jpg)
