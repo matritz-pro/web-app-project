@@ -80,15 +80,17 @@ Enregistrer les paquets requis par l'application dans le fichier ```requirements
 pip freeze > requirements.txt
 ```
 
-> Installer les paquets répertoriés dans le fichier ```requirements.txt```
-```bash
-pip install -r requirements.txt
-```
 > Afficher la liste des paquets installés
 ```bash
 pip list
 ```
+
 > Afficher plus d'informations sur un paquet installé
 ```bash
 pip show {package_name}
+```
+
+> Installer les paquets répertoriés dans le fichier ```requirements.txt```
+```bash
+pip install -r requirements.txt
 ```
