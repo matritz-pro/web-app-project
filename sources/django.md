@@ -122,3 +122,4 @@
 - [ ] [Immobilier_Arcane](https://github.com/Git-StevenP/Immobilier_Arcane)
 - [ ] [Brython-Django](https://github.com/harukaeru/Brython-Django)
 - [ ] [django-ex](https://github.com/sclorg/django-ex)
+- [ ] [btre_project](https://github.com/bradtraversy/btre_project)
