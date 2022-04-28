@@ -1,5 +1,6 @@
-# Gestion de projet
+# Autre
 
+## Gestion de projet
 [Gérez un projet digital avec une méthodologie en cascade](https://openclassrooms.com/fr/courses/4296701-gerez-un-projet-digital-avec-une-methodologie-en-cascade)
 
 ## Choix des technologies
@@ -11,3 +12,12 @@
 * [Qu'est-ce qu'un VPS](https://www.hostinger.fr/tutoriels/quest-ce-quun-vps)
 * [Bases de la programmation Web](https://perso.liris.cnrs.fr/pierre-antoine.champin/2019/progweb-python/cours/cm1.html)
 * [ASGI](https://asgi.readthedocs.io/en/latest/)
+
+## Système
+* [Configuration initiale de serveur avec Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04-fr)
+
+## Python
+* [awesome-python](https://github.com/vinta/awesome-python)
+* [fucking-awesome-python](https://github.com/trananhkma/fucking-awesome-python)
+* [fullstack-python](https://www.fullstackpython.com/)
+* [Python-Design-Pattern](https://www.tutorialspoint.com/python_design_patterns/python_design_patterns_builder.htm)
